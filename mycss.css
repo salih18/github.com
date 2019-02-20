@@ -212,6 +212,10 @@ nav span {
   background-color: #f2f2f2;
   padding: 10px;
 }
+.thankyou_message {
+  color: tomato;
+  font-size: 0.5em;
+}
 
 input,
 textarea {
