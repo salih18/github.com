@@ -1,0 +1,344 @@
+* {
+  box-sizing: border-box; /* to make divs has same size */
+}
+
+body {
+  font-family: "Titillium Web", sans-serif;
+  margin: 0.2% auto;
+  margin-top: 0.2%;
+  width: 90%;
+}
+
+/*  to adress on page navigation clearly*/
+
+#aboutme,
+#skill,
+#projects,
+#experiences,
+#contact {
+  padding-top: 6%;
+}
+
+/*  Header Properties -------------------------------------------*/
+
+#header-img {
+  background-image: url(https://i.imgur.com/HB9SnJ3.jpg);
+  background-repeat: no-repeat;
+  background-color: #0a50a4;
+  background-size: cover;
+  height: 90%;
+  background-position: center;
+  padding: 1%;
+  margin-top: 5px;
+}
+
+#header-text {
+  text-align: center;
+  padding: 30px;
+  color: ;
+  font-size: 5em;
+}
+h1 {
+  margin-top: 1%;
+  font-size: 1.5em;
+  text-align: center;
+}
+h1 span {
+  color: rgb(216, 225, 236);
+  font-size: 0.25em;
+  margin-top: 0px;
+}
+#name,
+#lastname {
+  font-weight: bold;
+  letter-spacing: 4px;
+  color: antiquewhite;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 40px;
+  background: #0a50a4;
+  color: #7db1f0;
+  padding: 0px;
+  margin-left: 4px;
+}
+
+#lastname {
+  margin-top: 0px;
+  position: absolute;
+  margin-left: 50px;
+  background: #bfdafa;
+  color: #0a50a4;
+  letter-spacing: 4px;
+}
+
+/*  Navigation Properties -------------------------------------------*/
+
+.nav {
+  background-color: #0a50a4;
+  background-size: cover;
+  height: 21px;
+  background-position: center;
+  padding: 20px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom: 0px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  box-shadow: 0 10px 40px #000;
+  z-index: 10;
+  box-sizing: content-box;
+}
+
+.nav-text {
+  position: absolute;
+  top: 2px;
+  left: 20px;
+}
+
+.nav-name {
+  font-family: "Nova Flat", cursive;
+  font-size: 50px;
+  margin-top: 20px;
+  letter-spacing: 1px;
+  color: #bfdafa;
+}
+
+nav span {
+  font-weight: bold;
+  font-size: 50px;
+  color: #061539;
+  text-shadow: 2px 2px 8px #000;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin-left: 5%;
+}
+
+.nav-links {
+  color: #f3f7fe;
+  font-size: 1em;
+  float: left;
+  height: 30px;
+  border-bottom: 5px solid transparent;
+  border-radius: 2px;
+  margin-left: 60px;
+  text-decoration: none;
+  transition: all 0.4s;
+  -webkit-transition: all 0.25s;
+}
+
+.nav-links:hover {
+  border-bottom-color: #f3f7fe;
+  color: #9fb9f6;
+  letter-spacing: 1px;
+  font-size: 0.9em;
+  line-height: 0.5px;
+}
+
+#contact-right {
+  float: right;
+}
+
+/*  Section Properties -------------------------------------------*/
+.sections {
+  background-color: none;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.cards {
+  text-align: justify;
+  border: 0.5px solid #9fb9f6;
+  border-radius: 3px;
+  padding: 0px;
+  padding-right: 30px;
+  padding-left: 10px;
+  box-shadow: 0px 8px 50px #566ea4;
+  background-color: white;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 1em;
+}
+
+.cards td:nth-child(odd) {
+  /*  to select table first column --*/
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.cards td {
+  padding: 3px 20px;
+}
+
+.cards table {
+  display: block;
+  font-size: 0.85em;
+}
+
+.cards,
+.section-heads {
+  line-height: 40px;
+}
+
+.sections-list li {
+  list-style-type: square;
+  font-size: 1em;
+  padding: 10px 0px;
+  margin-bottom: 20px;
+}
+
+.sections-list h4 {
+  border-bottom: 1px solid black;
+  display: inline-block;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  color: #162955;
+}
+
+.no-style li {
+  list-style-type: none;
+}
+
+.cards ul span {
+  font-weight: bold;
+  font-style: italic;
+  float: right;
+  padding-right: 50px;
+}
+/*  Contacts and Forms properties---*/
+.section-contact {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+input,
+textarea {
+  width: 90%;
+  padding: 20px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #9fb9f6;
+}
+
+form.contact-form {
+  font-size: 1.25em;
+}
+
+#submit-button {
+  color: #2458b3;
+  font-size: 0.8em;
+  height: 30px;
+  width: 90%;
+  margin-bottom: 10px;
+  border: 1px solid #566ea4;
+  border-radius: 2px;
+  background-color: transparent;
+  opacity: 0.7;
+  box-shadow: 0 2px 10px #000;
+
+  /* This button flowing transiton background is googled*/
+  position: relative;
+  overflow: hidden;
+}
+
+#submit-button:before {
+  position: absolute;
+  content: "";
+  z-index: -1;
+  background-color: #0a50a4;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: -100%;
+  background-color: #007cbf;
+  transition: all 0.4s ease-in;
+}
+
+#submit-button:hover {
+  color: goldenrod;
+  opacity: 0.9;
+}
+
+#submit-button:hover:before {
+  left: 0;
+}
+
+/* To adjust webpage to get a little bit responsive layout for mobile phones-------*/
+@media screen and (max-width: 960px) {
+  body {
+    width: 96%;
+  }
+
+  .nav {
+    background-color: #0a50a4;
+    height: 225px;
+    width: 0px;
+    float: right;
+    padding: 20px;
+    border-radius: 10px;
+    position: sticky;
+    position: -webkit-sticky;
+    left: 0;
+    top: 0;
+    box-shadow: 0 10px 40px #000;
+    z-index: 10;
+    padding-left: 1px;
+    opacity: 0.5;
+    overflow: hidden;
+    -webkit-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .nav:hover {
+    background-color: #0a50a4;
+    height: 225px;
+    padding-left: 100px;
+    opacity: 0.8;
+  }
+
+  .nav-list {
+    display: block;
+    float: right;
+    padding: 0px;
+    margin-left: 100px;
+  }
+
+  .nav-text {
+    display: none;
+  }
+
+  #contact-right {
+    float: left;
+  }
+
+  .nav-links {
+    color: #f3f7fe;
+    font-size: 1em;
+    float: left;
+    height: 30px;
+    border-bottom: 5px solid transparent;
+    border-radius: 2px;
+    margin-left: 60px;
+    text-decoration: none;
+    transition: all 0.4s;
+    -webkit-transition: all 0.25s;
+  }
+
+  .nav-links:hover {
+    border: none;
+    transition: none;
+    color: black;
+    letter-spacing: normal;
+    font-size: 1em;
+    line-height: normal;
+    border-bottom: 5px solid #fff;
+  }
+
+  .cards {
+    margin-right: 1%;
+    margin-left: 0;
+  }
+}
