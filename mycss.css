@@ -7,6 +7,8 @@ body {
   margin: 0.2% auto;
   margin-top: 0.2%;
   width: 90%;
+  background-color: #f4f6fe;
+  background-image: url("https://www.transparenttextures.com/patterns/blu-stripes.png");
 }
 
 /*  to adress on page navigation clearly*/
@@ -149,16 +151,19 @@ nav span {
 }
 
 .cards {
+  font-family: "Titillium Web", sans-serif;
   text-align: justify;
-  border: 0.5px solid #9fb9f6;
-  border-radius: 3px;
   padding: 0px;
   padding-right: 30px;
   padding-left: 10px;
   box-shadow: 0px 8px 50px #566ea4;
   background-color: white;
-  font-family: "Titillium Web", sans-serif;
   font-size: 1em;
+  border-color: transparent;
+  border-radius: 3px;
+
+  background-color: #f4f6fe;
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
 }
 
 .cards td:nth-child(odd) {
@@ -167,14 +172,33 @@ nav span {
   font-size: 1em;
 }
 
+.look-table {
+  border-bottom: 1px solid #ddd;
+  display: block;
+  line-height: 40px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  padding: 10 !important;
+  text-align: center;
+  transition: .25 all;
+  -webkit-transition: .25s all;
+ 
+  
+ }
+
+ .look-table:hover {
+  border-bottom: 1px solid rgb(98, 150, 228);
+  background-color: #ddd;
+  opacity: .3;
+  color:#000;
+ 
+ }
+ 
 .cards td {
   padding: 3px 20px;
 }
 
-.cards table {
-  display: block;
-  font-size: 0.85em;
-}
+
 
 .cards,
 .section-heads {
@@ -188,12 +212,16 @@ nav span {
   margin-bottom: 20px;
 }
 
-.sections-list h4 {
-  border-bottom: 1px solid black;
+.sections-list .list-head {
+  
   display: inline-block;
   padding-bottom: 10px;
   margin-bottom: 30px;
   color: #162955;
+  font-weight: bold;
+  border-top: 2px solid #1C6EA4;
+  border-bottom: 2px solid #1C6EA4;  
+  opacity: .9;
 }
 
 .no-style li {
@@ -299,6 +327,7 @@ form.contact-form {
 
   .nav {
     background-color: #0a50a4;
+    background-image: url("https://www.transparenttextures.com/patterns/dark-denim.png");
     height: 225px;
     width: 0px;
     float: right;
