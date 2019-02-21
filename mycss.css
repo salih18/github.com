@@ -269,12 +269,22 @@ form.contact-form {
   left: 0;
 }
 
+.arrow {
+  display:none !important;
+}
+
 /* To adjust webpage to get a little bit responsive layout for mobile phones-------*/
 @media screen and (max-width: 960px) {
   body {
     width: 96%;
   }
-
+  .arrow {
+    display: unset !important;
+    position: absolute;
+    left: 2px;
+    top: 10px;    
+  }
+  
   .nav {
     background-color: #0a50a4;
     height: 225px;
