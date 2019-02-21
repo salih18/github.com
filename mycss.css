@@ -217,6 +217,18 @@ nav span {
   font-size: 0.5em;
 }
 
+/*****just to make hover effect ***/
+.target-links {
+  display: block;
+  text-decoration: none;
+  color: rgb(90, 123, 235);
+}
+
+.target-links:hover {
+  text-decoration: none;
+  color: rgb(0, 54, 231);
+}
+/*****************************************/
 input,
 textarea {
   width: 90%;
@@ -242,7 +254,7 @@ form.contact-form {
   opacity: 0.7;
   box-shadow: 0 2px 10px #000;
 
-  /* This button flowing transiton background is googled*/
+  /* This button flowing transition is googled*/
   position: relative;
   overflow: hidden;
 }
@@ -270,10 +282,10 @@ form.contact-form {
 }
 
 .arrow {
-  display:none !important;
+  display: none !important;
 }
 
-/* To adjust webpage to get a little bit responsive layout for mobile phones-------*/
+/* To adjust webpage to get a little bit responsive navbar for mobile phones-------*/
 @media screen and (max-width: 960px) {
   body {
     width: 96%;
@@ -282,9 +294,9 @@ form.contact-form {
     display: unset !important;
     position: absolute;
     left: 2px;
-    top: 10px;    
+    top: 10px;
   }
-  
+
   .nav {
     background-color: #0a50a4;
     height: 225px;
