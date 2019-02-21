@@ -1,3 +1,6 @@
+/* Written using Visual Studio Code Editor */
+
+
 * {
   box-sizing: border-box; /* to make divs has same size */
 }
@@ -138,6 +141,13 @@ nav span {
   font-size: 0.9em;
   line-height: 0.5px;
 }
+
+.nav-links:active {
+  border-bottom-color: #5d8fe7;
+  color: #9fb9f6;
+  
+}
+
 
 #contact-right {
   float: right;
