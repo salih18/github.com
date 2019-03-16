@@ -139,7 +139,7 @@ table {
 header {
   display: flex;
   flex-flow: column;
-  background-image: url(https://i.imgur.com/HB9SnJ3.jpg);
+  background-image: url(/me_header_opac.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -180,7 +180,7 @@ header {
   font-family: "Jura", sans-serif;
   background: #bfdafa;
   color: #0a50a4;
-  font-size: 4vw;
+  font-size: 5vw;
   text-transform: uppercase;
   letter-spacing: 0.2em;
   margin-top: 0;
