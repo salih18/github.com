@@ -190,14 +190,21 @@ header {
 nav {
 	display: flex;
   justify-content: space-between;	
-  margin-top:5vw; 
+  background-color: #0a50a4;
+
  
  
 }
 nav ul {
   display: flex;
  
-	
+  
+  
+}
+
+nav ul li {
+  flex-grow: 1;
+  background-color: #0a50a4;
 }
 
 
@@ -232,23 +239,31 @@ nav ul {
   display: none;
 }
 
-@media screen and (max-width:575px) {
+@media screen and (max-width:620px) {
 .contact {
   display: none;
 }
 .contact2 {
   display: unset;
 }
+nav {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  background-color: #0a4fa4e1;
+ 
+}
 
 nav ul{
   flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
+  
+  
 }
 nav ul li {
- /*  background: #0a50a4; */
-  padding: 10px;
-  margin-right:60vw;
+  padding: 5px;
+  align-self: center;
+  background-color: transparent;
+  
 }
 
 }
