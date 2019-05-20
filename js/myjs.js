@@ -6,9 +6,9 @@ $(document).ready(function(){
    $(document).scroll(function() { 
       scroll_start = $(this).scrollTop();
       if(scroll_start > offset.top) {
-          $(".navbar-default").css('background-color', '#f0f0f0');
+          $(".navbar-dark").css('background-color', '#112d4e');
        } else {
-          $('.navbar-default').css('background-color', 'transparent');
+          $('.navbar-dark').css('background-color', 'transparent');
        }
    });
     }
