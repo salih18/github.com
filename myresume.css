@@ -106,7 +106,13 @@
     #experiences li.nav-item.btn {
         padding: 0;
         margin: 0;
-        color:green;
+      
+    }
+
+    #experiences a.nav-link.badge{
+        padding: 0.75rem !important;
+        margin: 0 !important;
+      
     }
   }
 
