@@ -1,0 +1,100 @@
+#header-section {
+   /*  background-color: #6c5ce7; */
+   background-image: url(https://i.imgur.com/HB9SnJ3.jpg);
+   background-repeat: no-repeat;
+   background-color: #0a50a4;
+   background-size: cover;
+   background-attachment:scroll;
+   background-position: center;
+   height: 100vh;
+
+    
+}
+#header-text {
+    height: 90vh;
+}
+#header-section h1 {
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 5rem;
+    line-height: 1.5;
+    
+    
+}
+
+#header-section h1:nth-child(1) {
+    color: #f9f7f7;    
+  }
+
+
+#header-section h1:nth-child(2) {
+    color: #112d4e;
+    background: #dbe2ef11;  
+    font-size: 3.5rem; 
+  }
+
+  #nav-skeleton {
+    background-color: #112d4e;
+}
+
+.toggle-customize {
+    border-color: #dbe2ef !important;
+    
+    
+}
+
+#nav-skeleton .nav-link {
+    color: #dbe2ef !important;
+    font-family: Ubuntu, sans-serif;
+    letter-spacing: 2px;
+    border-bottom: 2px solid transparent;
+}
+
+
+#nav-skeleton .nav-link:hover {
+    color: #f9f7f7 !important;
+    font-family: Ubuntu, sans-serif;
+    border-bottom-color: #dbe2ef; 
+    
+}
+
+
+
+
+#download-btn .btn{
+    font-size: 1.5rem;
+}
+
+.thankyou_message {
+    color: tomato;
+    font-size: 0.5em;
+  }
+
+
+
+@media screen and (max-width:992px) {
+    .nav-link:hover {
+        border-bottom-color: transparent;
+    }
+
+    .navbar-position {
+        position: static;
+    }
+
+     #nav-skeleton {
+    background-color: #112d4e !important;
+    
+   }
+}
+
+@media screen and (min-width:992px) {
+   #nav-skeleton {
+    background-color: transparent;
+    padding-bottom: 50px;
+    }
+
+    #contact .contact-label-1 {
+        margin-right: 8.75%;
+    }
+
+}
