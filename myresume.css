@@ -65,11 +65,6 @@
     font-size: 1.5rem;
 }
 
-.thankyou_message {
-    color: tomato;
-    font-size: 0.5em;
-  }
-
 
 
 @media screen and (max-width:992px) {
@@ -98,3 +93,9 @@
     }
 
 }
+
+@media screen and (max-width:640px) {
+    .car-custom h5, .car-custom p {
+      font-size: 1.2rem;
+    }
+  }
