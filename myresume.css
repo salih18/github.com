@@ -1,3 +1,37 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+/* Navbar Properties */
+
+#nav-skeleton {
+    background-color: #112d4e;
+}
+
+.toggle-customize {
+    border-color: #dbe2ef !important;
+    
+    
+}
+
+#nav-skeleton .nav-link {
+    color: #dbe2ef !important;
+    font-family: Ubuntu, sans-serif;
+    letter-spacing: 2px;
+    border-bottom: 2px solid transparent;
+}
+
+
+#nav-skeleton .nav-link:hover {
+    color: #f9f7f7 !important;
+    font-family: Ubuntu, sans-serif;
+    border-bottom-color: #dbe2ef; 
+    
+}
+
+/* Header Properties */
+
 #header-section {
    /*  background-color: #6c5ce7; */
    background-image: url(https://i.imgur.com/HB9SnJ3.jpg);
@@ -33,39 +67,16 @@
     font-size: 3.5rem; 
   }
 
-  #nav-skeleton {
-    background-color: #112d4e;
-}
-
-.toggle-customize {
-    border-color: #dbe2ef !important;
-    
-    
-}
-
-#nav-skeleton .nav-link {
-    color: #dbe2ef !important;
-    font-family: Ubuntu, sans-serif;
-    letter-spacing: 2px;
-    border-bottom: 2px solid transparent;
-}
 
 
-#nav-skeleton .nav-link:hover {
-    color: #f9f7f7 !important;
-    font-family: Ubuntu, sans-serif;
-    border-bottom-color: #dbe2ef; 
-    
-}
-
-
-
+/* About Section Button */
 
 #download-btn .btn{
     font-size: 1.5rem;
 }
 
 
+/* sm-md responsive property */
 
 @media screen and (max-width:992px) {
     .nav-link:hover {
@@ -82,17 +93,30 @@
    }
 }
 
+/* for large screen responsive property */
+
 @media screen and (min-width:992px) {
+
    #nav-skeleton {
+
     background-color: transparent;
     padding-bottom: 50px;
+
     }
 
     #contact .contact-label-1 {
         margin-right: 8.75%;
     }
 
+#about, #skill, #projects, #experiences, #contact
+
+ {
+   padding-top: 5% !important;
+ }
+
 }
+
+/* for small devices responsive layout */
 
 @media screen and (max-width:640px) {
     .car-custom h5, .car-custom p {
@@ -117,9 +141,19 @@
   }
 
 
+  #above-top {
+    background-color:transparent;
+    height: 50px;
+    width: 50px;
+    transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    -webkit-transition: all 0.1s linear;
+    -o-transition: all 0.1s linear;
+}
 
 
-  /* MDB Bootstrap CSS Framework */
+
+  /* MDB Bootstrap CSS */
 
   .hoverable {
       background-color:none;
