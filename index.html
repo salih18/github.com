@@ -752,7 +752,7 @@
                     </div>
                     <div class="col-lg-11">
                         <!-- Name -->
-                        <input type="text" id="defaultContactFormName" class="form-control mb-4" placeholder="Name">
+                        <input type="text" id="name" name="name" class="form-control mb-4" placeholder="Name">
                     </div>
                 </div>
 
@@ -775,7 +775,7 @@
                     <div class="col-lg-11">
                         <!-- Subject -->
                         <label class="contact-label-1">Subject</label>
-                        <select class="custom-select mb-4">
+                        <select class="custom-select mb-4" id="select-form" name="select-form" value="">
                             <option value="" disabled>Choose option</option>
                             <option value="1" selected>I like your webpage</option>
                             <option value="2">Report a bug</option>
@@ -806,12 +806,12 @@
 
                 <!-- Copy -->
                 <div class="custom-control custom-checkbox mb-4">
-                    <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy">
+                    <input type="checkbox" class="custom-control-input" id="defaultContactFormCopy" name="defaultContactFormCopy">
                     <label class="custom-control-label" for="defaultContactFormCopy">Forward me a copy</label>
                 </div>
 
                 <!-- Send button -->
-                <button class="btn btn-info btn-block" type="submit" id="submit-button" name="submit"
+                <button class="btn btn-info btn-block" type="submit" id="submit-button" name="submit-button"
                     value="">Send</button>
 
                 <div style="display:none" class="thankyou_message alert alert-danger">
