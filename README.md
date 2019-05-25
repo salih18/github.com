@@ -11,7 +11,7 @@
  
  Web Resume 2 (HTML-CSS-Bootstrap)
  
- Loading....
+ https://salih18.github.io/
  
  
 
