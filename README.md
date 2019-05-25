@@ -2,14 +2,11 @@
 
  ----Week 1 
  
- Web Resume 1 (HTML-CSS)
+>>>>> Web Resume 1 (HTML-CSS)
 
  https://salih18.github.io/HTML-CSS/HYF-Week1/  
  
- 
- ---Week 1 
- 
- Web Resume 2 (HTML-CSS-Bootstrap)
+>>>>> Web Resume 2 (HTML-CSS-Bootstrap)
  
  https://salih18.github.io/
  
