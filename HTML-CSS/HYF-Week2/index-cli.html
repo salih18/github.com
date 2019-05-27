@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>CLI Homework Answers</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+        integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+        
+</head>
+
+<body>
+
+    <header>
+        <div class="jumbotron bg-light text-center mb-0">
+            <div class="container">
+                <h1 class="display-3 mb-5">CLI Homework Answers</h1>
+                <p class="h3 mb-5 text-danger font-weight-bold">My name is Salih. <span
+                        class="font-weight-lighter text-light bg-dark mx-3 h5">#class 22</span><span
+                        class="font-wight-lighter text-light bg-dark mx-3 h5">#HackYourFuture</span> </p>
+                <hr class="my-2 my-5">
+                <p class="badge badge-secondary"><i class="fas fa-arrow-down mr-3"></i>Download pdf version</p>
+                <p class="lead">
+                    <a class="btn btn-outline-danger btn-lg btn-block d-block my-5" href="/cli-homework/salih_cli_homework.pdf" target="_blank" role="button">Download</a>
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <section id="solutions" class="bg-light pt-0">
+        <div class="container">
+            <ul class="list-group">
+                <li class=" list-group-item bg-danger px-4 py-4 text-light">1.Research how to create a hidden file and how to display it
+                    using ls command.</li>
+                <li class=" list-group-item  px-4 py-4">First of all, it is better to see where we are with <span
+                        class="badge badge-pill badge-danger">pwd</span> command.</li>
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/pwd.png" alt=""></li>
+
+                <li class=" list-group-item  px-4 py-4">Secondly, we create a folder with make directory <span
+                        class="badge badge-pill badge-danger">mkdir</span> . We are going inside the directory with
+                    change directory <span class="badge badge-pill badge-danger">cd</span>Then, we can see what is going
+                    on inside the directory whether something is hidden or not with list all <span
+                        class="badge badge-pill badge-danger">ls -a</span></li>
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/2.png" alt=""></li>
+                <li class=" list-group-item  px-4 py-4">Now it is time to create hidden file with <span
+                        class="badge badge-pill badge-danger"><span class="badge-dark mx-1">touch </span>
+                        .this-is-hidden-text</span>. <span class="alert-danger">Do you see there is a dot before the
+                        file that we want to create?</span> When we type list command <span
+                        class="badge badge-pill badge-danger mx-1">ls</span> We cannot see the file we create because it
+                    is hidden. We should use list all <span class="badge badge-pill badge-danger">ls -a</span></li>
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/3.png" alt=""></li>
+                <li class=" list-group-item  px-4 py-4">As you see below, after <span
+                        class="badge badge-pill badge-danger mx-1">ls -a</span> command we can see our hidden file. It
+                    cannot hide anymore.</li>
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/4.png" alt=""></li>
+
+
+                <li class="list-group-item bg-danger px-4 py-4 text-light">2. Research how to create multiple nested directories with one
+                    mkdir command.
+                    E.g. How would you create 'fun' directory along with all directories in the path below:
+                    /c/Users/unmesh/these/folders/are/just/for/fun</li>
+                <li class=" list-group-item  px-4 py-4">I didn't use <span><i class="far fa-folder-open mx-1"></i>fun</span>
+                    directory in the example. I don't know it is going to be any problem or not. In order to create
+                    nested directories <span class="badge badge-pill badge-danger">mkdir -p </span> is used in the
+                    terminal. I will not explain how you can remove nested directories with one command because we
+                    haven't learned yet <span><i class="far fa-laugh-beam mx-2"></i></span></li>
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/5.png" alt=""></li>
+
+                <li class="list-group-item bg-danger px-4 py-4 text-light"> 3. Execute following commands terminal:
+                    echo "test" > fun
+                    echo "another test" >> fun
+                    wc -c fun
+
+                    Verify number of characters in the file.</li>
+
+                <li class=" list-group-item  px-4 py-4">We should go back to <i class="far fa-folder-open mx-1"></i> exercises
+                    folder. <span class="badge badge-pill badge-danger">cd ../../../</span>. Then i am going to test
+                    echo command.</li>
+
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/6.png" alt=""></li>
+
+                <li class=" list-group-item  px-4 py-4">We are now in the <i class="far fa-folder-open mx-1"></i> exercises
+                    folder. I can now test the echo command <span class="badge badge-pill badge-danger">echo "test" >
+                        fun</span> and <span class="badge badge-pill badge-danger">echo "another test" >> fun</span>
+                    Then we count the words inside the file with <span class="badge badge-pill badge-danger">wc -c
+                        fun</span>. Actually, when we count the letters of those words it is not 18. I think spaces
+                    after the words are counted, but i'm not sure.<i class="far fa-sad-cry mx-2"></i> </li>
+
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/7.png" alt=""></li>
+
+                <li class="list-group-item bg-danger px-4 py-4 text-light"> 4. Research how to append something in the file *WITHOUT* a
+                    newline character.
+                    E.g.
+                    echo "test" > fun
+                    echo "another test" >> fun
+                    cat fun
+                    Output of "cat fun" is
+                    test
+                    another test
+
+                    How would you use echo command, so that output would be:
+                    testanother test</li>
+
+                <li class=" list-group-item  px-4 py-4"> I got tired. <i class="far fa-grin-squint-tears mx-2"></i>Please just
+                    look at the image below. You will see how we can add words without a new line character. <span
+                        class="badge badge-pill badge-danger">echo -n</span>.</li>
+
+                <li class="list-group-item px-4 py-4"><img class="img-fluid" src="/cli-homework/8.png" alt=""></li>
+            </ul>
+        </div>
+    </section>
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>
