@@ -1,6 +1,16 @@
- HTML-CSS HOMEWORK
+  
+ ```diff
+-HTML-CSS HOMEWORK
 
- ----Week 1 
+```
+ 
+ 
+
+  
+ ```diff
++Week 1 
+
+```
  
 >> Web Resume 1 (HTML-CSS)
 
@@ -10,11 +20,17 @@
  
  https://salih18.github.io/
  
- 
+   
  ```diff
-+ WEEK2
-- this will be highlighted in red
++Week 2
+
 ```
+
+>>CLI Homework
+
+https://salih18.github.io/HTML-CSS/HYF-Week2/index-cli
+ 
+
  
  
 
