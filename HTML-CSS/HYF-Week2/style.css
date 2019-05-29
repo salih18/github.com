@@ -155,7 +155,7 @@ body {
     font-family: Poppins, sans-serif;
     color: #3e5569;
     height: 100%;
-    background-image: linear-gradient(#bcd3d425, #bcd3d425), url("/sea-aerial-aerial-view-931018.jpg");
+    background-image: linear-gradient(#bcd3d425, #bcd3d425), url("images/sea-aerial-aerial-view-931018.jpg");
     background-size: contain;
     background-attachment: fixed;
 
@@ -163,7 +163,7 @@ body {
 
 
 header {
-    background-image: linear-gradient(#ff9e7462, #ff9e7481), url("/aerial-architecture-beach-417351.jpg");
+    background-image: linear-gradient(#ff9e7462, #ff9e7481), url("images/aerial-architecture-beach-417351.jpg");
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
