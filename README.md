@@ -30,6 +30,10 @@
 
 https://salih18.github.io/HTML-CSS/HYF-Week2/index-cli
  
+>>Grid Layouts with Floats, Flexbox, CSS Grid, Bootstrap Grid on the same page
+
+https://salih18.github.io/HTML-CSS/HYF-Week2/grid.html
+
 
  
  
