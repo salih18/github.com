@@ -1,7 +1,6 @@
 
- <h1 align="center">
-<img src="/https://imgur.com/FuN33cB"> COURSE HOMEWORKS
-</h1> 
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="HOMEWORKS"/>HOMEWORKS</h1>
+
 
   
  ```diff
