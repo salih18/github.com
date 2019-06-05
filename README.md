@@ -1,8 +1,8 @@
-  ```diff
+
  <h1 align="center">
--HACK-YOUR-FUTURE-COURSE-HOMEWORKS
+HACK-YOUR-FUTURE COURSE HOMEWORKS
 </h1> 
-```
+
   
  ```diff
 +Week 1 
