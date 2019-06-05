@@ -1,11 +1,9 @@
   
  ```diff
--HTML-CSS HOMEWORKS
+HACK-YOUR-FUTURE-COURSE-HOMEWORKS
 
 ```
  
- 
-
   
  ```diff
 +Week 1 
@@ -14,11 +12,11 @@
  
 >> Web Resume 1 (HTML-CSS)
 
- https://salih18.github.io/HTML-CSS/HYF-Week1/  
+https://salih18.github.io/H-Y-F/Week-1/
  
 >> Web Resume 2 (HTML-CSS-Bootstrap)
  
- https://salih18.github.io/
+https://salih18.github.io/H-Y-F/
  
    
  ```diff
@@ -28,14 +26,19 @@
 
 >>CLI Homework
 
-https://salih18.github.io/HTML-CSS/HYF-Week2/index-cli
+https://salih18.github.io/H-Y-F/Week-2/index-cli
  
 >>Grid Layouts with Floats, Flexbox, CSS Grid, Bootstrap Grid on the same page
 
-https://salih18.github.io/HTML-CSS/HYF-Week2/grid.html
+https://salih18.github.io/H-Y-F/Week-2/grid
 
+ ```diff
++Week 3
 
- 
+```
+>>Google- https://www.thinkwithgoogle.com/
+
+ https://salih18.github.io/H-Y-F/Week-3/
  
 
 
