@@ -1,7 +1,6 @@
   
  ```diff
 HACK-YOUR-FUTURE-COURSE-HOMEWORKS
-
 ```
  
   
