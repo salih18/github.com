@@ -35,7 +35,6 @@
 
 
 <!-- Comment -->
-<hr>
 
  ```diff
 +Week 3
