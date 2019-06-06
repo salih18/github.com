@@ -8,6 +8,7 @@
 +Week 1 
 
 ```
+
  <a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/MAKEME.md#step-3-assignment">Homework</a> 
  
 >> <a href="https://salih18.github.io/H-Y-F/Week-1/">Web Resume 1 (HTML-CSS)</a> 
@@ -42,7 +43,7 @@
 ```
 
 <a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week3/MAKEME.md#step-3-assignment">Homework</a>
->> <a href="">I build a website which looks like  <a href="https://www.thinkwithgoogle.com/">Think with Google</a></a>
+>> <a href="">I've builded a website which looks like</a> this web site<a href="https://www.thinkwithgoogle.com/">Think with Google</a>
 
  LoAding...
  
