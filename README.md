@@ -2,41 +2,37 @@
 <h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="HOMEWORKS"/>HOMEWORKS</h1>
 
 <!-- Comment -->
-<hr>
+
   
  ```diff
 +Week 1 
 
 ```
- Homework is about https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/MAKEME.md#step-3-assignment
->> Web Resume 1 (HTML-CSS)
-
-https://salih18.github.io/H-Y-F/Week-1/
+ <a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week1/MAKEME.md#step-3-assignment">Homework</a> 
+ 
+>> <a href="https://salih18.github.io/H-Y-F/Week-1/">Web Resume 1 (HTML-CSS)</a> 
 
 <!-- Comment -->
 <hr>
  
->> Web Resume 2 (HTML-CSS-Bootstrap)
+>> <a href="https://salih18.github.io/H-Y-F/">Web Resume 2 (HTML-CSS-Bootstrap)</a> 
  
-https://salih18.github.io/H-Y-F/
- 
-   
+  
  ```diff
 +Week 2
 
 ```
-Homework is about https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/MAKEME.md#step-1-command-line
->>CLI Homework
+<a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/MAKEME.md#step-1-command-line">Homework</a>
+>> <a href="https://salih18.github.io/H-Y-F/Week-2/index-cli">CLI Homework</a>
 
-https://salih18.github.io/H-Y-F/Week-2/index-cli
 
 <!-- Comment -->
 <hr>
 
-Homework is about https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/MAKEME.md#step-3-assignment 
->>Grid Layouts with Floats, Flexbox, CSS Grid, Bootstrap Grid on the same page
+<a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/MAKEME.md#step-3-assignment ">Homework</a> 
 
-https://salih18.github.io/H-Y-F/Week-2/grid
+>> <a href="https://salih18.github.io/H-Y-F/Week-2/grid">Grid Layouts with Floats, Flexbox, CSS Grid, Bootstrap Grid on the same page</a> 
+
 
 <!-- Comment -->
 <hr>
@@ -45,7 +41,9 @@ https://salih18.github.io/H-Y-F/Week-2/grid
 +Week 3
 
 ```
->>Google- https://www.thinkwithgoogle.com/
+
+<a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week3/MAKEME.md#step-3-assignment">Homework</a>
+>> <a href="">I build a website which looks like  <a href="https://www.thinkwithgoogle.com/">Think with Google</a></a>
 
  LoAding...
  
