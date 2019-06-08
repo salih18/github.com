@@ -43,9 +43,9 @@
 ```
 
 <a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week3/MAKEME.md#step-3-assignment">Homework</a>
->> <a href="">I've builded a website which looks like</a> this web site<a href="https://www.thinkwithgoogle.com/">Think with Google</a>
+>> <a href="https://salih18.github.io/H-Y-F/Week-3/">I've builded a website which looks like</a> this web site<a href="https://www.thinkwithgoogle.com/">Think with Google</a>
 
- LoAding...
+
  
 
 
