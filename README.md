@@ -35,7 +35,7 @@
 
 <a href="https://github.com/HackYourFuture/HTML-CSS/blob/master/Week2/MAKEME.md#step-3-assignment ">Homework</a> 
 
->> <a href="https://salih18.github.io/H-Y-F/Week-2/grid">Grid Layouts with Floats, Flexbox, CSS Grid, Bootstrap Grid on the same page</a> 
+>> <a href="https://salih18.github.io/H-Y-F/Week-2/grid">Grid Layouts with Floats, Flexbox, CSS Grid, Bootstrap Grid on the same page</a> <hr>
 
 
 <!-- Comment -->
@@ -72,6 +72,13 @@
  
   >> <a href="https://github.com/salih18/H-Y-F/blob/aaa73152522437fb20e88688779e75acb19af6de/javaScript/Week-2/week_2_hw.js">Solutions in git editor</a>
  
+ <hr>
+ 
+  <a href="https://github.com/nick-barth/hyf-javascript1-week2#homework">Homework 2-Extra</a> 
+  >> <a href="https://salih18.github.io/H-Y-F/javaScript/Week-2/week_2_second_hw.js">Solutions Preview</a><br>
+  
+  >> <a href="https://github.com/salih18/H-Y-F/blob/b05e7ac0b2713dc61748538b868bc0bb30c03fcf/javaScript/Week-2/week_2_second_hw.js">Solutions in git editor</a>
+  
  
 
 
