@@ -79,7 +79,13 @@
   
   >> <a href="https://github.com/salih18/H-Y-F/blob/b05e7ac0b2713dc61748538b868bc0bb30c03fcf/javaScript/Week-2/week_2_second_hw.js">Solutions in git editor</a>
   
+   ```diff
++Week 3
+
+```
+ <a href="https://github.com/HackYourFuture/JavaScript1/blob/master/Week3/MAKEME.md#step-3-string-and-array-challenges">Homework</a> 
  
+  >> <a href="https://salih18.github.io/H-Y-F/javaScript/Week-3/week-3-hw.js">Solutions Preview</a>
 
-
+  >> <a href="https://github.com/salih18/H-Y-F/blob/a3707fc36e80eea55c0443dc9c1e50e2dba358c6/javaScript/Week-3/week-3-hw.js">Solutions in git editor</a>
 
