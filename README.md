@@ -49,7 +49,7 @@
 >> <a href="https://salih18.github.io/H-Y-F/Week-3/">I've builded a website which looks like</a> this web site<a href="https://www.thinkwithgoogle.com/">Think with Google</a>
 
  ```diff
--JAVASCRIPT SECTION
+-JAVASCRIPT-1 SECTION
 
 ```
  ```diff
@@ -88,4 +88,13 @@
   >> <a href="https://salih18.github.io/H-Y-F/javaScript/Week-3/week-3-hw.js">Solutions Preview</a>
 
   >> <a href="https://github.com/salih18/H-Y-F/blob/a3707fc36e80eea55c0443dc9c1e50e2dba358c6/javaScript/Week-3/week-3-hw.js">Solutions in git editor</a>
+  
+   ```diff
+-JAVASCRIPT-2 SECTION
+
+```
+ ```diff
++Week 1
+
+```
 
