@@ -97,4 +97,10 @@
 +Week 1
 
 ```
+ <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a> 
+  >> <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/index.html">Html Preview</a>  
+  >> <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
+  
+ 
+ 
 
