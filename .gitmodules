@@ -1,3 +1,6 @@
 [submodule "H-Y-F"]
 	path = H-Y-F
 	url = https://github.com/salih18/H-Y-F.git
+[submodule "JavaScript2"]
+	path = JavaScript2
+	url = https://github.com/salih18/JavaScript2.git
