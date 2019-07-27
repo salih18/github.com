@@ -106,11 +106,15 @@
 
 ```
  <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week2/MAKEME.md#homework-week-2">Homework</a> 
+ 
  <hr>
+ 
  >> <a href="https://salih18.github.io/H-Y-F/javaScript2/Week2/homework/maartjes-work.js">1. Solutions Preview</a>
  
- >> <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">1. Solutions in git editor</a>
+ >><a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">1. Solutions in git editor</a>
+ 
  <hr>
+ 
   >> <a href="https://salih18.github.io/H-Y-F/javaScript2/Week2/map-filter.js">1. Solutions Preview</a>
   
   >> <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/map-filter.js">2. Solutions in git editor</a>
