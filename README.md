@@ -137,15 +137,15 @@
  
  >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-4.js">2-4. Solutions Preview</a>
  
- >> <a href="https://salih18.github.io/JavaScript2/homework/Week3/step2-5.js">2-5. Solutions Preview</a>
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/Week3/step2-5.js">2-5. Solutions Preview</a>
  
- >> <a href="https://salih18.github.io/JavaScript2/homework/Week3/step2-6.js">2-6. Solutions Preview</a>
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/Week3/step2-6.js">2-6. Solutions Preview</a>
  
- >> <a href="https://salih18.github.io/JavaScript2/homework/Week3/step2-7.js">2-7. Solutions Preview</a>
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/Week3/step2-7.js">2-7. Solutions Preview</a>
  
- >> <a href="https://salih18.github.io/JavaScript2/homework/Week3/step3-bonus.js">3-bonus. Solutions Preview</a>
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/Week3/step3-bonus.js">3-bonus. Solutions Preview</a>
  
- >> <a href="https://salih18.github.io/JavaScript2/homework/Week3/step3.js">3-0. Solutions Preview</a>
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/Week3/step3.js">3-0. Solutions Preview</a>
  
  >> <a href="https://github.com/salih18/JavaScript2/tree/master/Week3/homework">All Solutions in git editor</a>
  
