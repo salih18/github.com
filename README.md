@@ -117,7 +117,7 @@
  
  <hr>
  
-  >> <a href="https://salih18.github.io/JavaScript2/homework/Week2/map-filter.js">1. Solutions Preview</a>
+  >> <a href="https://salih18.github.io/JavaScript2/Week2/homework/map-filter.js">2. Solutions Preview</a>
   
   >> <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/map-filter.js">2. Solutions in git editor</a>
  
