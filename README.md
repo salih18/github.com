@@ -113,7 +113,11 @@
 
 <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week2/MAKEME.md#homework-week-2">Homework</a>
 
-> > <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">Solutions in git editor</a>
+> > <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">Solutions in git editor</a> > > <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a>
+
+> > <a href="https://salih18.github.io/JavaScript2/Week1/homework/index.html">Html Preview</a>
+
+> > <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
 
 ```diff
 +Week 2
@@ -198,8 +202,3 @@
 
 > > <a href="https://hyf-js3-week3.netlify.com/">https://hyf-js3-week3.netlify.com/</a>  
 > > <a href="https://github.com/salih18/JavaScript3/blob/week3/homework/index.js">Solutions in git editor with async await</a> > > <a href="https://github.com/salih18/JavaScript3/tree/week3/homework-classes">Solutions in git editor with ES6 Classes</a>
-> > <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a>
-
-> > <a href="https://salih18.github.io/JavaScript2/Week1/homework/index.html">Html Preview</a>
-
-> > <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
