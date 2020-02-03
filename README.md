@@ -216,10 +216,6 @@
 
 - <a href="https://github.com/salih18/Node.js/tree/week3/week3/homework/src">Solutions in git editor</a>
 
-```
-
-```
-
 ```diff
 -MYSQL SECTION
 
@@ -346,3 +342,7 @@
 ```
 
 <a href="https://shopping-app-nextjs.herokuapp.com/">Shopping App</a>
+
+```
+
+```
