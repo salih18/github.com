@@ -311,7 +311,8 @@
 
 <a href="https://github.com/salih18/React/blob/master/documentation/homework/W4-homework.md">Homework</a>
 
-> > <a href="https://github.com/salih18/React/tree/react-week4/homework-submission">Solutions in git editor</a> > > <a href="https://hyf-react-week4.netlify.com/">React App Combine All</a>
+- <a href="https://github.com/salih18/React/tree/react-week4/homework-submission">Solutions in git editor</a>
+- <a href="https://hyf-react-week4.netlify.com/">React App Combine All</a>
 
 ```diff
 +Week 5 ---- React Class Exam
@@ -334,8 +335,8 @@
 
 ```
 
-<a href="https://social-network-app-base.herokuapp.com/">Social Newtwork App</a>
-<a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
+- <a href="https://social-network-app-base.herokuapp.com/">Social Newtwork App</a>
+- <a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
 
 > > Features:
 
