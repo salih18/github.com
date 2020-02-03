@@ -235,3 +235,39 @@
 ```
 
 ```
+
+```diff
+-MYSQL SECTION
+
+```
+
+```diff
++Week 1
+
+```
+
+<a href="https://github.com/HackYourFuture/databases/blob/master/Week1/MAKEME.md">Homework</a>
+
+> > <a href="https://github.com/salih18/databases/tree/sql-week1/Week1/homework">Solutions in git editor</a>
+
+```diff
++Week 2
+
+```
+
+<a href="https://github.com/HackYourFuture/databases/blob/master/Week2/MAKEME.md">Homework</a>
+
+> > <a href="https://github.com/salih18/databases/tree/sql-week2/Week2/homework">Solutions in git editor</a>
+
+```diff
++Week 3
+
+```
+
+<a href="https://github.com/HackYourFuture/databases/blob/master/Week3/MAKEME.md">Homework</a>
+
+> > <a href="https://github.com/salih18/databases/tree/sql-week3/Week3/homework">Solutions in git editor</a>
+
+```
+
+```
