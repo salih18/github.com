@@ -324,10 +324,12 @@
 
 > > <a href="https://hyf-react-exam-week5.netlify.com/">People App</a>
 
-<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="GRADUATION PROJECT"/>HOMEWORKS</h1>
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="GRADUATION PROJECT"/>GRADUATION PROJECT</h1>
 
 ```diff
-+6 Weeks ---- MERN (MongoDB-Express-ReactJS-NodeJS) Stack Social Network App
++6 Weeks
+
+---- MERN (MongoDB-Express-ReactJS-NodeJS) Stack Social Network App
 
 
 ```
@@ -346,10 +348,12 @@
 <a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a>
 <a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
 
-<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT"/>HOMEWORKS</h1>
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT"/>ALUMNI PROJECT</h1>
 
 ```diff
-+4 Weeks ---- (MongoDB-NextJS-ReactJS-NodeJS) E-Commerce Shopping App
++4 Weeks
+
+---- (MongoDB-NextJS-ReactJS-NodeJS) E-Commerce Shopping App
 
 
 ```
