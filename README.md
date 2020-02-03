@@ -219,6 +219,10 @@
 
 ```
 
+<a href="https://github.com/HackYourFuture/Node.js/blob/master/week2/MAKEME.md">Homework</a>
+
+> > <a href="https://github.com/salih18/Node.js/tree/week2/week2/homework/src">Solutions in git editor</a>
+
 ```diff
 +Week 3
 
