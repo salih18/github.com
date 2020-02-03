@@ -329,4 +329,18 @@
 ```diff
 +6 Weeks ---- MERN (MongoDB-Express-ReactJS-NodeJS) Stack Social Network App
 
+
 ```
+
+<a href="https://social-network-app-base.herokuapp.com/">Social Newtwork App</a>
+
+> > Features:
+
+<a href="https://github.com/salih18/class22-project/tree/friend-request">Friend Request</a>
+<a href="https://github.com/salih18/class22-project/tree/live-chat">Live Chat</a>
+<a href="https://github.com/salih18/class22-project/tree/live-search">Live Search</a>
+<a href="https://github.com/salih18/class22-project/tree/news-feed">News Feed</a>
+<a href="https://github.com/salih18/class22-project/tree/notification">Notification</a>
+<a href="https://github.com/salih18/class22-project/tree/pwa">PWA</a>
+<a href="https://github.com/salih18/class22-project/tree/social-media-login">Social Media Login</a>
+<a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a>
