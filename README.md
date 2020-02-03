@@ -338,15 +338,7 @@
 
 > > Features:
 
-<a href="https://github.com/salih18/class22-project/tree/friend-request">Friend Request</a>
-<a href="https://github.com/salih18/class22-project/tree/live-chat">Live Chat</a>
-<a href="https://github.com/salih18/class22-project/tree/live-search">Live Search</a>
-<a href="https://github.com/salih18/class22-project/tree/news-feed">News Feed</a>
-<a href="https://github.com/salih18/class22-project/tree/notification">Notification</a>
-<a href="https://github.com/salih18/class22-project/tree/pwa">PWA</a>
-<a href="https://github.com/salih18/class22-project/tree/social-media-login">Social Media Login</a>
-<a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a>
-<a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
+##<a href="https://github.com/salih18/class22-project/tree/friend-request">Friend Request</a> ##<a href="https://github.com/salih18/class22-project/tree/live-chat">Live Chat</a> ##<a href="https://github.com/salih18/class22-project/tree/live-search">Live Search</a> ##<a href="https://github.com/salih18/class22-project/tree/news-feed">News Feed</a> ##<a href="https://github.com/salih18/class22-project/tree/notification">Notification</a> ##<a href="https://github.com/salih18/class22-project/tree/pwa">PWA</a> ##<a href="https://github.com/salih18/class22-project/tree/social-media-login">Social Media Login</a> ##<a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a> ##<a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
 
 <h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT"/>ALUMNI PROJECT</h1>
 
