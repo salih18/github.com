@@ -100,7 +100,6 @@
 +Week 1
 
 ```
-<<<<<<< HEAD
 
 <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a>
 
@@ -117,9 +116,58 @@
 > > <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">Solutions in git editor</a>
 
 ```diff
--JAVASCRIPT-3 SECTION
++Week 2
 
 ```
+
+<a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week2/MAKEME.md#homework-week-2">Homework</a>
+
+ <hr>
+ 
+ >> <a href="https://salih18.github.io/JavaScript2/Week2/homework/maartjes-work.js">1. Solutions Preview</a>
+ 
+ >><a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">1. Solutions in git editor</a>
+ 
+ <hr>
+ 
+  >> <a href="https://salih18.github.io/JavaScript2/Week2/homework/map-filter.js">2. Solutions Preview</a>
+  
+  >> <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/map-filter.js">2. Solutions in git editor</a>
+ 
+   ```diff
++Week 3
+
+````
+ <a href="https://github.com/salih18/JavaScript2/blob/master/Week3/MAKEME.md#homework-week-3">Homework</a>
+
+  <hr>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-1.js">2-1. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-2.js">2-2. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-3.js">2-3. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-4.js">2-4. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-5.js">2-5. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-6.js">2-6. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-7.js">2-7. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step3-bonus.js">3-bonus. Solutions Preview</a>
+
+ >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step3.js">3-0. Solutions Preview</a>
+
+ >> <a href="https://github.com/salih18/JavaScript2/tree/master/Week3/homework">All Solutions in git editor</a>
+
+
+
+```diff
+-JAVASCRIPT-3 SECTION
+
+````
 
 ```diff
 +Week 1 -- Single Page Application (SPA) using Github API with Callbacks
@@ -150,58 +198,8 @@
 
 > > <a href="https://hyf-js3-week3.netlify.com/">https://hyf-js3-week3.netlify.com/</a>  
 > > <a href="https://github.com/salih18/JavaScript3/blob/week3/homework/index.js">Solutions in git editor with async await</a> > > <a href="https://github.com/salih18/JavaScript3/tree/week3/homework-classes">Solutions in git editor with ES6 Classes</a>
-=======
- <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a> 
- 
-  >> <a href="https://salih18.github.io/JavaScript2/Week1/homework/index.html">Html Preview</a>  
-  
-  >> <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
-  
-  ```diff
-+Week 2
+> > <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a>
 
-```
- <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week2/MAKEME.md#homework-week-2">Homework</a> 
- 
- <hr>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week2/homework/maartjes-work.js">1. Solutions Preview</a>
- 
- >><a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">1. Solutions in git editor</a>
- 
- <hr>
- 
-  >> <a href="https://salih18.github.io/JavaScript2/Week2/homework/map-filter.js">2. Solutions Preview</a>
-  
-  >> <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/map-filter.js">2. Solutions in git editor</a>
- 
-   ```diff
-+Week 3
+> > <a href="https://salih18.github.io/JavaScript2/Week1/homework/index.html">Html Preview</a>
 
-```
- <a href="https://github.com/salih18/JavaScript2/blob/master/Week3/MAKEME.md#homework-week-3">Homework</a> 
- 
-  <hr>
-  
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-1.js">2-1. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-2.js">2-2. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-3.js">2-3. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-4.js">2-4. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-5.js">2-5. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-6.js">2-6. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step2-7.js">2-7. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step3-bonus.js">3-bonus. Solutions Preview</a>
- 
- >> <a href="https://salih18.github.io/JavaScript2/Week3/homework/step3.js">3-0. Solutions Preview</a>
- 
- >> <a href="https://github.com/salih18/JavaScript2/tree/master/Week3/homework">All Solutions in git editor</a>
- 
- 
->>>>>>> d7a4d182e26589f5003b8800fb60e48f4c240141
+> > <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
