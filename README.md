@@ -103,7 +103,8 @@
 
 <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a>
 
-> > <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/index.html">Html Preview</a>  
+> > <a href="https://salih18.github.io/JavaScript2/Week1/homework/index.html">Html Preview</a>
+
 > > <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
 
 ```diff
@@ -114,10 +115,6 @@
 <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week2/MAKEME.md#homework-week-2">Homework</a>
 
 > > <a href="https://github.com/salih18/JavaScript2/blob/Week-2/Week2/homework/maartjes-work.js">Solutions in git editor</a> > > <a href="https://github.com/HackYourFuture/JavaScript2/blob/master/Week1/MAKEME.md#homework-week-1">Homework</a>
-
-> > <a href="https://salih18.github.io/JavaScript2/Week1/homework/index.html">Html Preview</a>
-
-> > <a href="https://github.com/salih18/JavaScript2/blob/Week-1/Week1/homework/app.js">Solutions in git editor</a>
 
 ```diff
 +Week 2
