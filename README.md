@@ -344,3 +344,14 @@
 <a href="https://github.com/salih18/class22-project/tree/pwa">PWA</a>
 <a href="https://github.com/salih18/class22-project/tree/social-media-login">Social Media Login</a>
 <a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a>
+<a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
+
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT"/>HOMEWORKS</h1>
+
+```diff
++4 Weeks ---- (MongoDB-NextJS-ReactJS-NodeJS) E-Commerce Shopping App
+
+
+```
+
+<a href="https://shopping-app-nextjs.herokuapp.com/">Shopping App</a>
