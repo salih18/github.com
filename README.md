@@ -210,7 +210,7 @@
 
 ```
 
-<a href="https://github.com/HackYourFuture/Node.js/blob/master/week1/MAKEME.md">Homework</a>
+<a href="https://github.com/salih18/Node.js/blob/week1/week1/homework/README.md">Homework</a>
 
 > > <a href="https://github.com/salih18/Node.js/tree/week1/week1/homework/src">Solutions in git editor</a>
 
@@ -219,7 +219,7 @@
 
 ```
 
-<a href="https://github.com/HackYourFuture/Node.js/blob/master/week2/MAKEME.md">Homework</a>
+<a href="https://github.com/salih18/Node.js/blob/week2/week2/homework/README.md">Homework</a>
 
 > > <a href="https://github.com/salih18/Node.js/tree/week2/week2/homework/src">Solutions in git editor</a>
 
@@ -228,7 +228,7 @@
 
 ```
 
-<a href="https://github.com/HackYourFuture/Node.js/blob/master/week3/MAKEME.md">Homework</a>
+<a href="https://github.com/salih18/Node.js/blob/week3/week3/homework/README.md">Homework</a>
 
 > > <a href="https://github.com/salih18/Node.js/tree/week3/week3/homework/src">Solutions in git editor</a>
 
@@ -246,7 +246,7 @@
 
 ```
 
-<a href="https://github.com/HackYourFuture/databases/blob/master/Week1/MAKEME.md">Homework</a>
+<a href="https://github.com/salih18/databases/blob/sql-week1/Week1/MAKEME.md">Homework</a>
 
 > > <a href="https://github.com/salih18/databases/tree/sql-week1/Week1/homework">Solutions in git editor</a>
 
@@ -255,7 +255,7 @@
 
 ```
 
-<a href="https://github.com/HackYourFuture/databases/blob/master/Week2/MAKEME.md">Homework</a>
+<a href="https://github.com/salih18/databases/blob/sql-week2/Week2/MAKEME.md">Homework</a>
 
 > > <a href="https://github.com/salih18/databases/tree/sql-week2/Week2/homework">Solutions in git editor</a>
 
@@ -264,7 +264,7 @@
 
 ```
 
-<a href="https://github.com/HackYourFuture/databases/blob/master/Week3/MAKEME.md">Homework</a>
+<a href="https://github.com/salih18/databases/blob/sql-week3/Week3/MAKEME.md">Homework</a>
 
 > > <a href="https://github.com/salih18/databases/tree/sql-week3/Week3/homework">Solutions in git editor</a>
 
