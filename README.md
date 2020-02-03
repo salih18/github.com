@@ -199,3 +199,35 @@
 
 > > <a href="https://hyf-js3-week3.netlify.com/">https://hyf-js3-week3.netlify.com/</a>  
 > > <a href="https://github.com/salih18/JavaScript3/blob/week3/homework/index.js">Solutions in git editor with async await</a> > > <a href="https://github.com/salih18/JavaScript3/tree/week3/homework-classes">Solutions in git editor with ES6 Classes</a>
+
+```diff
+-NODEJS SECTION
+
+```
+
+```diff
++Week 1
+
+```
+
+<a href="https://github.com/HackYourFuture/Node.js/blob/master/week1/MAKEME.md">Homework</a>
+
+> > <a href="https://github.com/salih18/Node.js/tree/week1/week1/homework/src">Solutions in git editor</a>
+
+```diff
++Week 2
+
+```
+
+```diff
++Week 3
+
+```
+
+<a href="https://github.com/HackYourFuture/Node.js/blob/master/week3/MAKEME.md">Homework</a>
+
+> > <a href="https://github.com/salih18/Node.js/tree/week3/week3/homework/src">Solutions in git editor</a>
+
+```
+
+```
