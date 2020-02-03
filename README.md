@@ -198,7 +198,7 @@
 <a href="https://github.com/HackYourFuture/JavaScript3/blob/master/Week3/MAKEME.md">Homework</a>
 
 > > <a href="https://hyf-js3-week3.netlify.com/">https://hyf-js3-week3.netlify.com/</a>  
-> > <a href="https://github.com/salih18/JavaScript3/blob/week3/homework/index.js">Solutions in git editor with async await</a> <hr> > > <a href="https://github.com/salih18/JavaScript3/tree/week3/homework-classes">Solutions in git editor with ES6 Classes</a>
+> > <a href="https://github.com/salih18/JavaScript3/blob/week3/homework/index.js">Solutions in git editor with async await</a> > > <a href="https://github.com/salih18/JavaScript3/tree/week3/homework-classes">Solutions in git editor with ES6 Classes</a>
 
 ```diff
 -NODEJS SECTION
@@ -293,7 +293,7 @@
 
 <a href="https://github.com/salih18/React/blob/master/documentation/homework/W2-homework.md">Homework</a>
 
-> > <a href="https://github.com/salih18/React/tree/react-week2/homework-submission/todo-app">Solutions in git editor</a> <hr> > > <a href="https://hyf-react-week2.netlify.com/">Todo-App Online (Week 1 && Week 2)</a>
+> > <a href="https://github.com/salih18/React/tree/react-week2/homework-submission/todo-app">Solutions in git editor</a> > > <a href="https://hyf-react-week2.netlify.com/">Todo-App Online (Week 1 && Week 2)</a>
 
 ```diff
 +Week 3 ---
@@ -302,7 +302,7 @@
 
 <a href="https://github.com/salih18/React/blob/master/documentation/homework/W3-homework.md">Homework</a>
 
-> > <a href="https://github.com/salih18/React/tree/react-week3/homework-submission">Solutions in git editor</a> <hr> > > <a href="https://hyf-react-week3.netlify.com/">Random Select Person</a>
+> > <a href="https://github.com/salih18/React/tree/react-week3/homework-submission">Solutions in git editor</a> > > <a href="https://hyf-react-week3.netlify.com/">Random Select Person</a>
 
 ```diff
 +Week 4
@@ -311,7 +311,7 @@
 
 <a href="https://github.com/salih18/React/blob/master/documentation/homework/W4-homework.md">Homework</a>
 
-> > <a href="https://github.com/salih18/React/tree/react-week4/homework-submission">Solutions in git editor</a> <hr> > > <a href="https://hyf-react-week4.netlify.com/">React App Combine All</a>
+> > <a href="https://github.com/salih18/React/tree/react-week4/homework-submission">Solutions in git editor</a> > > <a href="https://hyf-react-week4.netlify.com/">React App Combine All</a>
 
 ```diff
 +Week 5 ---- React Class Exam
