@@ -271,3 +271,55 @@
 ```
 
 ```
+
+```diff
+-REACT SECTION
+
+```
+
+```diff
++Week 1 --- Todo App
+
+```
+
+<a href="https://github.com/salih18/React/blob/master/documentation/homework/W1-homework.md">Homework</a>
+
+> > <a href="https://github.com/salih18/React/tree/react-week1/homework-submission/todo-app">Solutions in git editor</a>
+
+```diff
++Week 2 --- Todo App with Firebase
+
+```
+
+<a href="https://github.com/salih18/React/blob/master/documentation/homework/W2-homework.md">Homework</a>
+
+> > <a href="https://github.com/salih18/React/tree/react-week2/homework-submission/todo-app">Solutions in git editor</a> > > <a href="https://hyf-react-week2.netlify.com/">Todo-App Online (Week 1 && Week 2)</a>
+
+```diff
++Week 3 ---
+
+```
+
+<a href="https://github.com/salih18/React/blob/master/documentation/homework/W3-homework.md">Homework</a>
+
+> > <a href="https://github.com/salih18/React/tree/react-week3/homework-submission">Solutions in git editor</a> > > <a href="https://hyf-react-week3.netlify.com/">Random Select Person</a>
+
+```diff
++Week 4
+
+```
+
+<a href="https://github.com/salih18/React/blob/master/documentation/homework/W4-homework.md">Homework</a>
+
+> > <a href="https://github.com/salih18/React/tree/react-week4/homework-submission">Solutions in git editor</a> > > <a href="https://hyf-react-week4.netlify.com/">React App Combine All</a>
+
+```diff
++Week 5 ---- React Class Exam
+
+```
+
+<a href="https://github.com/salih18/class22-react-test/blob/master/README.md">Homework</a>
+
+> > <a href="https://github.com/salih18/class22-react-test/tree/react-test-salih/test">Solutions in git editor</a>
+
+> > <a href="https://hyf-react-exam-week5.netlify.com/">People App</a>
