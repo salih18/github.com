@@ -318,7 +318,7 @@
 ```
 
 - <a href="https://social-network-app-base.herokuapp.com/">Social Newtwork App</a>
-- <a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App Featured</a>
+- <a href="https://hackyoursocialfinal.herokuapp.com/">Social Newtwork App with Features</a>
 
 > > Features:
 
@@ -330,6 +330,7 @@
 6. <a href="https://github.com/salih18/class22-project/tree/pwa">PWA</a>
 7. <a href="https://github.com/salih18/class22-project/tree/social-media-login">Social Media Login</a>
 8. <a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a>
+9. <a href="https://github.com/salih18/class22-project/tree/development">Project Codes</a>
 
 <h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT"/>ALUMNI PROJECT</h1>
 
@@ -342,6 +343,7 @@
 ```
 
 <a href="https://shopping-app-nextjs.herokuapp.com/">Shopping App</a>
+<a href="https://github.com/salih18/React-NextJS">Project Codes</a>
 
 ```
 
