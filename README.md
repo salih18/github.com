@@ -342,8 +342,8 @@
 
 ```
 
-<a href="https://shopping-app-nextjs.herokuapp.com/">Shopping App</a>
-<a href="https://github.com/salih18/React-NextJS">Project Codes</a>
+- <a href="https://shopping-app-nextjs.herokuapp.com/">Shopping App</a>
+- <a href="https://github.com/salih18/React-NextJS">Project Codes</a>
 
 ```
 
