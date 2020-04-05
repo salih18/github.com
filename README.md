@@ -332,7 +332,7 @@
 8. <a href="https://github.com/salih18/class22-project/tree/email-confirmation">Email/Password Confirmation</a>
 9. <a href="https://github.com/salih18/class22-project/tree/development">Project Codes</a>
 
-<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT"/>ALUMNI PROJECT</h1>
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT 1"/>ALUMNI PROJECT 1</h1>
 
 ```diff
 +4 Weeks
@@ -348,3 +348,74 @@
 ```
 
 ```
+
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT 2"/>ALUMNI PROJECT 2</h1>
+
+```diff
++4 Weeks
+
+---- (MERN Stack) Place Share App
+
+
+```
+
+- <a href="https://github.com/salih18/share-places-spa">Project Codes</a>
+
+```
+
+```
+
+<h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT 2"/>POST-GRAD STUDIES</h1>
+
+```diff
++1 Weeks
+
+---- (NextJS) 
+
+```
+
+- <a href="https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/">Udemy Course</a>
+
+```
+```
+
+- <a href="https://github.com/salih18/Next-React-Movie-App">Project Codes</a>
+
+```
+
+```
+
+```diff
+
+---- (Technical Assignments) 
+
+```
+
+- <a href="https://github.com/salih18/post-grad-ed/tree/master/technical-assignments/Assignment-DAZN">DAZN Assignment</a>
+
+```
+```
+
+- <a href="https://github.com/salih18/Starwars-Universe-App">Assignment Codes</a>
+
+```
+
+```
+```diff
+
+---- (Homeworks) 
+
+```
+
+- <a href="https://github.com/salih18/post-grad-ed/blob/master/Week1/README.md">Tasks</a>
+
+```
+```
+
+- <a href="https://github.com/salih18/post-grad-ed/tree/master/Week1">Solutions</a>
+
+```
+
+```
+
+
