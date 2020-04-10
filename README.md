@@ -368,7 +368,7 @@
 <h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT 2"/>POST-GRAD STUDIES</h1>
 
 ```diff
-+1 Weeks
++2 Weeks
 
 ---- (NextJS) 
 
@@ -407,12 +407,14 @@
 
 ```
 
-- <a href="https://github.com/salih18/post-grad-ed/blob/master/Week1/README.md">Tasks</a>
+- <a href="https://github.com/salih18/post-grad-ed/blob/master/Week1/README.md">Tasks Week 1</a>
+- <a href="https://github.com/salih18/post-grad-ed/blob/master/Week2/README.md">Tasks Week 2</a>
 
 ```
 ```
 
-- <a href="https://github.com/salih18/post-grad-ed/tree/master/Week1">Solutions</a>
+- <a href="https://github.com/salih18/post-grad-ed/tree/master/Week1">Solutions Week 1</a>
+- <a href="https://github.com/salih18/post-grad-ed/tree/master/Week2">Solutions Week 2</a>
 
 ```
 
