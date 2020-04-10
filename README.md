@@ -380,6 +380,7 @@
 ```
 
 - <a href="https://github.com/salih18/Next-React-Movie-App">Project Codes Week 1 (Movie App)</a>
+- <a href="https://github.com/salih18/portfolio-salih/tree/master/portfolio-salih">Project Codes Week 2 (Portfolio App)</a>
 
 ```
 
