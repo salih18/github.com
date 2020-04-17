@@ -380,7 +380,7 @@
 ```
 
 - <a href="https://github.com/salih18/Next-React-Movie-App">Project Codes Week 1 (Movie App)</a>
-- <a href="https://github.com/salih18/portfolio-salih/tree/master/portfolio-salih">Project Codes Week 2 (Portfolio App)</a>
+- <a href="https://github.com/salih18/portfolio-salih/tree/master/portfolio-salih">Project Codes  (Portfolio App)</a>
 
 ```
 
@@ -410,12 +410,14 @@
 
 - <a href="https://github.com/salih18/post-grad-ed/blob/master/Week1/README.md">Tasks Week 1</a>
 - <a href="https://github.com/salih18/post-grad-ed/blob/master/Week2/README.md">Tasks Week 2</a>
+- <a href="https://github.com/salih18/post-grad-ed/blob/master/Week3/README.md">Tasks Week 3</a>
 
 ```
 ```
 
 - <a href="https://github.com/salih18/post-grad-ed/tree/master/Week1">Solutions Week 1</a>
 - <a href="https://github.com/salih18/post-grad-ed/tree/master/Week2">Solutions Week 2</a>
+- <a href="https://github.com/salih18/post-grad-ed/tree/master/Week3">Solutions Week 3</a>
 
 ```
 
