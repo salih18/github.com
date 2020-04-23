@@ -368,19 +368,15 @@
 <h1 align="center" color:red><img src="https://imgur.com/FuN33cB.jpg" title="ALUMNI PROJECT 2"/>POST-GRAD STUDIES</h1>
 
 ```diff
-+2 Weeks
++4 Weeks
 
----- (NextJS) 
+---- (NextJS) Portfolio App
 
-```
-
-- <a href="https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/">Udemy Course</a>
 
 ```
-```
 
-- <a href="https://github.com/salih18/Next-React-Movie-App">Project Codes Week 1 (Movie App)</a>
 - <a href="https://github.com/salih18/portfolio-salih/tree/master/portfolio-salih">Project Codes  (Portfolio App)</a>
+- <a href="https://salihsert.herokuapp.com/">My Portfolio App Online</a>
 
 ```
 
@@ -394,10 +390,12 @@
 
 - <a href="https://github.com/salih18/post-grad-ed/tree/master/technical-assignments/Assignment-DAZN">DAZN Assignment</a>
 
+
 ```
 ```
 
-- <a href="https://github.com/salih18/Starwars-Universe-App">Assignment Codes</a>
+- <a href="https://github.com/salih18/Starwars-Universe-App">DAZN Assignment Codes</a>
+- <a href="https://github.com/salih18/Next-React-Movie-App">Movie App Assignment</a>
 
 ```
 
